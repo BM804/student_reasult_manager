@@ -119,4 +119,4 @@ This project is open-source and free to use.
 ## 👨‍💻 Author
 
 BAbu MIddya
-GitHub: https://github.com/your-username](https://github.com/BM804/student_reasult_manager
+GitHub:https://github.com/BM804/student_reasult_manager
